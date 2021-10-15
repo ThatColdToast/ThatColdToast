@@ -1,11 +1,10 @@
 Hi, I’m @ThatColdToast
 I am mostly a java developer in High School. I like to work in many other languages though.
-I have wet my feet in these (that I can think of)
+I have worked with these (that I can think of)
 - Java
 - C#
 - C / C++
 - Python
-- Lua
 - GLSL
 - HLSL
 
