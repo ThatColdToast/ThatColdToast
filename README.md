@@ -3,7 +3,7 @@ I am mostly a java developer in High School. I like to work in many other langua
 I have worked with these (that I can think of)
 - Java
 - C#
-- C / C++
+- C++
 - Python
 - GLSL
 - HLSL
