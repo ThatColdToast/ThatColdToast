@@ -1,17 +1,17 @@
 Hi, I’m @ThatColdToast
-I am mostly a java developer in High School. I like to work in many other languages though.
+I am mostly a java developer in High School. I like to work in many other languages though. I love learning new languages and am still learning many things about all of them.
 
-I have worked with these (that I can think of):
+I have worked with and feel the most fluent in these (that I can think of):
 - Java
 - Kotlin
 - C#
 - C++
-- HLSL
+- GLSL
 
-A little bit of the following:
+I'm still learning the following languages:
 - Rust
 - Python
-- GLSL
+- HLSL
 
 <!---
 ThatColdToast/ThatColdToast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
