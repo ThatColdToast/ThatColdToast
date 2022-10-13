@@ -3,9 +3,9 @@ I am mostly a java developer in High School. I like to work in many other langua
 
 I have worked with and feel the most fluent in these (that I can think of):
 - Java
-- Kotlin
 - C#
 - C++
+- Kotlin
 - GLSL
 
 I'm still learning the following languages:
