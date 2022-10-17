@@ -7,11 +7,11 @@ I have worked with and feel the most fluent in these (that I can think of):
 - C++
 - Kotlin
 - GLSL
+- HLSL
 
 I'm still learning the following languages:
 - Rust
 - Python
-- HLSL
 
 <!---
 ThatColdToast/ThatColdToast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
