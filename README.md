@@ -1,15 +1,14 @@
 Hi, I’m @ThatColdToast
 I am mostly a java developer studying Computer Science in University. I like to work in many other languages though. I love learning new languages and am still learning many things about all of them.
 
-I have worked with and feel the most fluent in these (that I can think of):
+I have worked with many languages, here are some of them (ranked for fluency):
 - Java
 - Kotlin
 - C#
 - C++
+- Rust
 - GLSL
 - HLSL
-
-I'm still learning the following languages:
 - Rust
 - Python
 
