@@ -9,7 +9,6 @@ I have worked with many languages, here are some of them (ranked for fluency):
 - Rust
 - GLSL
 - HLSL
-- Rust
 - Python
 
 <!---
