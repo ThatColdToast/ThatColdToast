@@ -1,4 +1,4 @@
-# Hi, I'm Jacob
+Hi, I'm Jacob
 
 Founder and solo developer of [TraxIt](https://www.traxitapp.com/), a field-service app for fire protection contractors. It's on the Apple App Store and in production use.
 
